@@ -1,0 +1,40 @@
+[2025-06-04 14:31:52][2025-06-04 14:32:28][2025-06-04 14:32:28][2025-06-04 14:32:28][2025-06-04 14:33:25][2025-06-04 14:33:32][2025-06-04 14:33:32][2025-06-04 14:33:32][2025-06-04 14:37:10] : UnknownAgent|파일 복호화|2025-06-04 14:37:10|성공|test1.docx.enc[2025-06-04 14:37:18] : UnknownAgent|파일 재암호화 완료|2025-06-04 14:37:18|성공|C:\Users\YJ\Desktop\test1.docx[2025-06-04 14:37:18] : UnknownAgent|원본 파일 삭제|2025-06-04 14:37:18|성공|C:\Users\YJ\Desktop\test1.docx[2025-06-04 14:37:18] : UnknownAgent|백업 파일 삭제|2025-06-04 14:37:18|성공|C:\Users\YJ\Desktop\~test1.docx.enc.bak[2025-06-04 14:43:10] UnknownAgent|파일 복호화|2025-06-04 14:43:10|성공|test1.txt.enc
+[2025-06-04 14:43:10] API 응답 성공: OK
+[2025-06-04 14:43:17] UnknownAgent|파일 재암호화 완료|2025-06-04 14:43:17|성공|C:\Users\YJ\Desktop\test1.txt
+[2025-06-04 14:43:17] API 응답 성공: OK
+[2025-06-04 14:43:17] UnknownAgent|원본 파일 삭제|2025-06-04 14:43:17|성공|C:\Users\YJ\Desktop\test1.txt
+[2025-06-04 14:43:17] API 응답 성공: OK
+[2025-06-04 14:43:17] UnknownAgent|백업 파일 삭제|2025-06-04 14:43:17|성공|C:\Users\YJ\Desktop\~test1.txt.enc.bak
+[2025-06-04 14:43:17] API 응답 성공: OK
+[2025-06-04 14:46:24] UnknownAgent|파일 복호화|2025-06-04 14:46:24|성공|test1.hwp.enc
+[2025-06-04 14:46:24] API 응답 성공: OK
+[2025-06-04 14:46:32] UnknownAgent|파일 재암호화 완료|2025-06-04 14:46:32|성공|C:\Users\YJ\Desktop\test1.hwp
+[2025-06-04 14:46:32] API 응답 성공: OK
+[2025-06-04 14:46:32] UnknownAgent|원본 파일 삭제|2025-06-04 14:46:32|성공|C:\Users\YJ\Desktop\test1.hwp
+[2025-06-04 14:46:32] API 응답 성공: OK
+[2025-06-04 14:46:32] UnknownAgent|백업 파일 삭제|2025-06-04 14:46:32|성공|C:\Users\YJ\Desktop\~test1.hwp.enc.bak
+[2025-06-04 14:46:32] API 응답 성공: OK
+[2025-06-09 11:51:16] UnknownAgent|파일 복호화|2025-06-09 11:51:16|성공|test1.docx.enc
+[2025-06-09 11:51:16] API 응답 성공: OK
+[2025-06-09 11:51:24] UnknownAgent|파일 재암호화 완료|2025-06-09 11:51:24|성공|C:\Users\YJ\Desktop\test1.docx
+[2025-06-09 11:51:24] API 응답 성공: OK
+[2025-06-09 11:51:24] UnknownAgent|원본 파일 삭제|2025-06-09 11:51:24|성공|C:\Users\YJ\Desktop\test1.docx
+[2025-06-09 11:51:24] API 응답 성공: OK
+[2025-06-09 11:51:24] UnknownAgent|백업 파일 삭제|2025-06-09 11:51:24|성공|C:\Users\YJ\Desktop\~test1.docx.enc.bak
+[2025-06-09 11:51:24] API 응답 성공: OK
+[2025-06-09 13:17:16] UnknownAgent|파일 복호화|2025-06-09 13:17:16|성공|test1.docx.enc
+[2025-06-09 13:17:16] API 응답 성공: OK
+[2025-06-09 13:17:25] UnknownAgent|파일 재암호화 완료|2025-06-09 13:17:25|성공|C:\Users\YJ\Desktop\test1.docx
+[2025-06-09 13:17:25] API 응답 성공: OK
+[2025-06-09 13:17:25] UnknownAgent|원본 파일 삭제|2025-06-09 13:17:25|성공|C:\Users\YJ\Desktop\test1.docx
+[2025-06-09 13:17:25] API 응답 성공: OK
+[2025-06-09 13:17:25] UnknownAgent|백업 파일 삭제|2025-06-09 13:17:25|성공|C:\Users\YJ\Desktop\~test1.docx.enc.bak
+[2025-06-09 13:17:25] API 응답 성공: OK
+[2025-06-09 13:24:54] befdcabeebcdcbeb|파일 복호화|2025-06-09 13:24:54|성공|test1.docx.enc
+[2025-06-09 13:24:54] API 응답 성공: OK
+[2025-06-09 13:25:01] befdcabeebcdcbeb|파일 재암호화 완료|2025-06-09 13:25:01|성공|C:\Users\YJ\Desktop\test1.docx
+[2025-06-09 13:25:01] API 응답 성공: OK
+[2025-06-09 13:25:01] befdcabeebcdcbeb|원본 파일 삭제|2025-06-09 13:25:01|성공|C:\Users\YJ\Desktop\test1.docx
+[2025-06-09 13:25:01] API 응답 성공: OK
+[2025-06-09 13:25:01] befdcabeebcdcbeb|백업 파일 삭제|2025-06-09 13:25:01|성공|C:\Users\YJ\Desktop\~test1.docx.enc.bak
+[2025-06-09 13:25:01] API 응답 성공: OK

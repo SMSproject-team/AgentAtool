@@ -1,0 +1,7 @@
+C:\atool\bin\Release\atool.exe.config
+C:\atool\bin\Release\atool.exe
+C:\atool\bin\Release\atool.pdb
+C:\atool\obj\Release\atool.csproj.AssemblyReference.cache
+C:\atool\obj\Release\atool.csproj.CoreCompileInputs.cache
+C:\atool\obj\Release\atool.exe
+C:\atool\obj\Release\atool.pdb
